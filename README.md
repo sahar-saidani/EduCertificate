@@ -146,7 +146,7 @@ EduCert est une application décentralisée qui permet aux institutions d'émett
 
 ## 🔄 Architecture & Flux Technique
  **Pipeline Complet** 
-![Pipeline](./frontend/public/Pipeline Complet.png)
+![Pipeline](./frontend/public/Pipeline%20Complet.png)
 
   **Flux Technique** 
 ```
