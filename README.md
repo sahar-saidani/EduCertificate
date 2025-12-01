@@ -145,7 +145,10 @@ EduCert est une application décentralisée qui permet aux institutions d'émett
 
 
 ## 🔄 Architecture & Flux Technique
+ **Pipeline Complet** 
+![Pipeline](./frontend/public/Pipeline Complet.png)
 
+  **Flux Technique** 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
 │  FRONTEND   │────▶│   BACKEND   │────▶│   MONGODB   │
@@ -161,13 +164,19 @@ EduCert est une application décentralisée qui permet aux institutions d'émett
 └─────────────┘     └─────────────┘
 ```
 
-**Flux principal :**
+**Étape 1 : Émission d'un Certificat**
 
-1. Émission d'un certificat
-2. Vérification d'un certificat
-3. Gestion par l’étudiant
+![Émission d'un Certificat](./frontend/public/Émission%20d'un%20Certificat.png)
 
----
+**Étape 2 : Vérification d'un Certificat**
+
+![Vérification d'un Certificat](./frontend/public/Vérification%20d'un%20Certificat.png)
+
+**Étape 3 : Gestion par l'Étudiant**
+
+![Gestion par l'Étudiant](./frontend/public/Gestion%20par%20l'Étudiant.png)
+
+
 
 ## 🚀 Installation rapide
 
