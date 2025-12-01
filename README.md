@@ -2,10 +2,9 @@ Voici un **README complet et bien structuré** pour ton projet EduCert, basé su
 
 ---
 
-# EduCert - Plateforme de Certification Blockchain
+# EduCertificate - Plateforme de Certification Blockchain
 
-<div align="center">
-<img src="https://via.placeholder.com/1200x300/2563eb/ffffff?text=EduCert+-+Certifications+Immuables+sur+Blockchain" alt="EduCert Banner">
+
 
 Un système décentralisé pour émettre et vérifier des certificats éducatifs
 
@@ -129,9 +128,6 @@ EduCert est une application décentralisée qui permet aux institutions d'émett
 🏠 **Page d’accueil**
 ![Page d'accueil](./frontend/public/home.png)
 
-🔐 **Connexion MetaMask**
-![Connexion](./assets/login.png)
-
 📜 **Mes Certificats**
 ![Certificats](./frontend/public/MyCertificates.png)
 
@@ -146,6 +142,7 @@ EduCert est une application décentralisée qui permet aux institutions d'émett
 
   **AddInstitution**
 ![AddInstitution](./frontend/public/add_institution.png) 
+
 
 ## 🔄 Architecture & Flux Technique
 
@@ -207,7 +204,3 @@ npm run dev
 ```
 
 ---
-
-Si tu veux, je peux te créer **une version encore plus “README de projet professionnel”**, avec badge GitHub, diagrammes, et instructions simplifiées pour les développeurs qui veulent tester rapidement EduCert.
-
-Veux‑tu que je fasse ça ?
